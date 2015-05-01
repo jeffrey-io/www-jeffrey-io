@@ -1,0 +1,31 @@
+#!title=Writings
+#!path=writings
+#!order=2
+#!use-template=normal
+      <div class="row featurette">
+        <div class="col-md-1">
+	    </div>
+        <div class="col-md-6">
+          <h2 class="featurette-heading">I <span class="text-muted">think</span>, therefore I <span class="text-muted">write</span>.</h2>
+          <p class="lead">
+	     Below is a collection of essays, partial thoughts, and other brain droppings that I have written over the years.
+	  </p>
+          <h3>Thoughts on <strong><span class="text-muted">Software</span>, Life, Technology, and <span class="text-muted">Other Random Shit</span></strong></h3>
+          <ul>
+		  
+		  {{#topology}}
+		  {{#writings}}
+		  {{#children}}
+		  <li><a href="{{url}}">{{title}}</a></li>
+		  {{/children}}
+		  {{/writings}}
+		  {{/topology}}
+	  </ul>
+        </div>
+        <div class="col-md-5">
+		<!-- TODO: find a good image for this 
+          <img class="featurette-image img-responsive" src="big-data.png" />
+		  -->
+        </div>
+      </div>
+

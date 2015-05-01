@@ -1,0 +1,54 @@
+#!title=Projects
+#!path=projects
+#!order=3
+#!use-template=normal
+      <div class="row featurette">
+        <div class="col-md-2">
+	    </div>
+        <div class="col-md-8">
+          <h2 class="featurette-heading">I like to use <span class="text-muted">tools</span> and stick <span class="text-muted">wood</span> together.</h2>
+          <p class="lead">
+             See <a href="/wood-projects-2015.html">my current wood project plan</a> to see what I want to add here in the future. Below are my wood projects that have (or are near) finishing:
+	  </p>
+          <ul>
+		  {{#topology}}
+		  {{#projects}}
+		  {{#wood}}
+		  {{#children}}
+		  <li><a href="{{url}}">{{title}}</a></li>
+		  {{/children}}
+		  {{/wood}}
+		  {{/projects}}
+		  {{/topology}}
+	  </ul>
+	</div>
+      </div>
+
+      <div class="row featurette">
+        <div class="col-md-2">
+	    </div>
+        <div class="col-md-8">
+          <h2 class="featurette-heading">I like to write <span class="text-muted">code</span>, tee-<span class="text-muted">hee</span>.</h2>
+          <p class="lead">
+	     Below are the software projects that I'm working on, or at least trying to work on.
+	  </p>
+          <ul>
+		  
+		  {{#topology}}
+		  {{#projects}}
+		  {{#code}}
+		  {{#children}}
+		  <li><a href="{{url}}">{{title}}</a></li>
+		  {{/children}}
+		  {{/code}}
+		  {{/projects}}
+		  {{/topology}}
+	  </ul>
+        </div>
+        <div class="col-md-5">
+		<!-- TODO: find a good image for this 
+          <img class="featurette-image img-responsive" src="big-data.png" />
+		  -->
+        </div>
+      </div>
+

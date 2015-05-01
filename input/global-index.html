@@ -1,0 +1,23 @@
+#!title=Terms
+#!path=contact/global-tag-index
+#!use-template=normal
+      <div class="row featurette">
+        <div class="col-md-1">
+	    </div>
+        <div class="col-md-6">
+          <h2 class="featurette-heading">Global Index</h2>
+          <p class="lead">
+      {{#global-tag-index}}
+         <ul><li>{{name}}</li>
+             <ul>{{#ref}}<li><a href="{{url}}">{{title}}</a></li>{{/ref}}</ul>
+         </ul>
+      {{/global-tag-index}}
+          </p>	 
+
+        </div>
+        <div class="col-md-5">
+		<!-- TODO: find a good image for this 
+          <img class="featurette-image img-responsive" src="big-data.png" />
+		  -->
+        </div>
+      </div>

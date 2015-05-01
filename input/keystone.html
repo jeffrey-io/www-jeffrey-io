@@ -1,0 +1,28 @@
+#!title=Project Keystone
+#!path=experiments
+#!order=98
+#!use-template=normal
+      <div class="row featurette">
+        <div class="col-md-1">
+	    </div>
+        <div class="col-md-6">
+          <h2 class="featurette-heading">Project Keystone</h2>
+          <p>I am almost to the good life. The last part is my health and weight. I'm currently healthy, but I am a large man. I am abnormally large, and if things go south, then my health will swing fast to a not so pleasant world. At the end of 2010, I weighed over 450 pounds. I picked up the four hour body, and I was able to stick with the slow carb diet for two years. During those years, I was able to shed about 110 pounds. Unfortunately, I found it difficult to stick to the diet due to some mental health issues. So, I gained some of the weight back. Thankfully, I didn't gain all the weight back.
+	  </p><p>Intellectually, I understand what I need to do to have good weight and health. The problem is that understanding something intellectually in the high mind does not translate into good habits. So, below, you will find the experiments I do am doing to get myself on track to the good life. I think the core difficulty is doing it slow enough that new habits can form and take root. So, I will take it slow and try to do exactly one thing every month.</p>
+          <ul>
+		  {{#topology}}
+		  {{#experiments}}
+		  {{#children}}
+		  <li><a href="{{url}}">{{title}}</a></li>
+		  {{/children}}
+		  {{/experiments}}
+		  {{/topology}}
+	  </ul>
+        </div>
+        <div class="col-md-5">
+		<!-- TODO: find a good image for this 
+          <img class="featurette-image img-responsive" src="big-data.png" />
+		  -->
+        </div>
+      </div>
+

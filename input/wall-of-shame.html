@@ -1,0 +1,219 @@
+#!title=Wall of Shame
+#!path=wall-of-shame
+#!order=3
+#!use-template=normal
+      <div class="row featurette">
+        <div class="col-md-1">
+	    </div>
+        <div class="col-md-6">
+          <h2 class="featurette-heading">The <span class="text-muted">Wall</span> of <span class="text-muted">Shame</span></h2>
+ <p> I like to write code and build stuff. It's fun. But when I look back at my prior works... I feel shame. I'm ashamed because (a) I start more than I finish, (b) &quot;Did I seriously write that? What was I thinking!&quot; The process is simple: I start a grand project, spend 20 to 500 hours on it, then realize it's crap, write a post-mordem and I start over or switch projects. The thing that shames me the most isn't that I have bad ideas. I have great ideas that I execute strangely. &quot;Execute strangely&quot; is the operative word which I will touch on later date. </p> 
+    <p> I love building things for the sake of building things in the spirit of <a href="http://en.wikipedia.org/wiki/Art_for_art's_sake">&quot;artis gratia artis&quot;</a>. This was my mantra until I built something that other people wanted. It's great to build things that people want to use to make their life better. The shame comes from the fact that, well, code that doesn't ship doesn't help anyone. It's a microcosm of a failure when you abandon a personal project; it's worth a drink or two to drown the sorrow of realizing (a) your personal project sucks, or (b) no one wants it. </p> 
+    <p> That being said, I referenced <a href="http://web.archive.org/web/20081225153906/http://www.mathgladiator.com/documents/projects.php">the way back machine for an old copy of projects page</a> in an <a href="education-invention-creativity-new-world.html">essay on education</a>. See, back in my day (when I was walking to school barefoot in the snow up hill both ways), we didn't have github. We had to throw up a web-page on whatever kind of server we could find. Those of that wanted to feel like 'ballers', we had to go for our own domain and scrounge for cheap hosting (with root access). But, that was back then before the cloud made this easy. Anyway, I've digressed. </p> 
+    <p> This page is the newly updated version of my projects page since I'm too lazy to do the due diligence of getting everything proper in github (and a lot of the technologies and platforms don't exist anymore). So, I wrote this document from the bottom to up. It may make more sense to read from the bottom. Just sayin. </p> 
+
+    <h3>Winter Spree (December 2014 - January 2015)</h3> 
+
+    <h4><a href="https://github.com/jeffrey-io/wall-of-shame/tree/master/2015/PixelMaster">PixelMaster</a> &&front-end&& &&architecture&& &&android&& &&mobile&&</h4>
+    <p>I wanted to finger paint pixel art for lewt game. So, I made this as a starting point. I need better icons, but it mostly works on my Kindle. I had some interesting problems with either GC, but I haven't dug into it yet.</p>
+
+    <h4><a href="https://github.com/jeffrey-io/wall-of-shame/tree/master/2014/lewt">lewt</a> &amp; <a href="https://github.com/jeffrey-io/wall-of-shame/tree/master/2014/OldSkool">OldSkool</a> &&games&& &&graphics&& &&ai&&</h4>
+    <p>I made a simple dungeon crawler with very simple mechanics, and I got to the point where I had graphics, movement, and limited AI. I got stuck with how to balance the game play and see if I could make something fun.</p>
+    
+    <h4><a href="https://github.com/jeffrey-io/wall-of-shame/tree/master/2014/play-workspace">Play</a> &&networking&& &&database&& &&front-end&& &&architecture&&</h4>
+    <p>I was making a new kind of JSON stream database. The idea was to have a fairly rich language of how to manipulate a JSON object. The rich language was to describe transactions against an object, and the mutations to the object would be serialized and synchronized to multiple clients. This could be used to make a fairly expressive game server and shared environment. I ran into a few performance bottlenecks as I was re-teaching myself C++, but I liked the overall direction.
+    </p>
+   
+    <h3>Second Company - Red Nova Labs (2009 - 2011)</h3> 
+    <h4><a href="http://www.storagefront.com/">storagefront.com</a> &&networking&& &&front-end&& &&business&&</h4> We made the best way to find self storage. 
+    <p><i>... other stuff I can't talk about ...</i></p> 
+    <h3>First Company - BRKZ (2007 - 2009) </h3> 
+    <h4>Hurox.com &&networking&& &&front-end&& &&business&&</h4>This 
+    <s>
+      is 
+    </s> could have been the social network for the next ten years. See 
+    <a href="http://mashable.com/2008/02/10/hurox/">Mashable</a>, 
+    <a href="http://www.killerstartups.com/social-networking/hurox-com-be-socialbe-profitable/">Killer Startups</a>, 
+    <a href="http://downloadsquad.switched.com/2008/02/11/hurox-one-social-networking-site-that-does-everything/">DownloadSquad</a>, or 
+    <a href="https://www.google.com/search?q=hurox">google it</a>. This was a crazy project that we actually made work. It had a web desktop, a virtualized web-os (of my own design), a set of default applications, profile pages, custom user pages, a bulk media uploader, ways of setting price for your content, a very complicated layout system. Oh, and the for those that want to cringe: it only used absolute positioning. 
+    <p></p> 
+    <p></p> 
+    <h4>Kira (Formerly NotJavaScript) &&parsing&& &&compiler&&</h4>Kira is what happens when closures and static typing are added to the best web platform around (PHP). Yes, PHP sucks, but it's like a virus and has a huge platform. My idea was to bootstrap a less sucky language onto a popular language to make it better. Afterall, PHP is kinda like a web version of assembly. This has now been replaced by JavaScript. 
+    <p></p> 
+    <p></p> 
+    <h4>MassSHARD &&parsing&& &&compiler&& &&database&&</h4>Sharding a database sucks, so do it at the beginning. This was my ORM where I defined a schema, and it would generate the code to operate that schema and enable me to formally specify how it will shard the data. This enabled me to keep a tight lid on my schema and understand the complexity growth. 
+    <p></p> 
+    <p></p> 
+    <h4>Jove3 Suite &&networking&& &&front-end&& &&business&& &&parsing&& &&compiler&& &&rich-client&&</h4>I made an IDE; I wish I could lie about this. Essentially, I bootstrapped from a bunch of my Kitchen code. Jove had: a couple domain specific languages and compilers, a text editor, a GUI editor, a script validator, a built-in source control (WTF was I thinking), and network locking. 
+    <p></p> 
+    <p></p> 
+    <h4>Book I</h4>I wrote a book in two weeks; it's a secret. It's publiched on kindle under my awesome pseudonym. 
+    <p></p> 
+    <p></p> 
+    <h4>Kapow &&parsing&& &&compiler&& &&hacking&&</h4>Take any spreadsheet, Kapow would convert it to code and make it into a web-app. Bam! Killer enterprisey app. Essentially, I used this to define a very high-level problem which then I'd compile to C. I'd throw the C code into a simplex solver and find the answer to my problems. It was fun, and I used open office (an open office file is just a zip, go, take a peak) 
+    <p></p> 
+    <p></p> 
+    <h4>ArcaneWorks &&comp-sci&& &&rich-client&& &&architecture&&</h4>I like Excel, I like the idea of Access, but I love MySQL. I tried to build an excel/access replacement. Essentially, I wanted to build spreadsheets as closures on top of a database. It seemed like the two could mix together in strange and special ways. Then I imagined combining it with WEKA and doing really powerful things. But, I stopped after making my own Excel like UI. I did however get evaluation working, and this leader to Kapow. 
+    <p></p> 
+    <p></p> 
+    <h4>Jeff's Notepad &&rich-client&&</h4>I wrote my own Notepad (using my own Text Control). It has html/javascript syntax coloring and some formating. It could auto-format your code as it supported both GrillScript and JavaScript... (Again, why I did this is beyond me.) 
+    <p></p> 
+    <h3>Graduate Schooling (2006 - 2007)</h3> 
+    <p></p> 
+    <h4>Math Gladiator Automated Tutoring &&networking&& &&front-end&& &&architecture&& &&comp-sci&& &&parsing&& &&compiler&&</h4>I was... depressed when I first taught College Algebra. I wanted my students to have the tools to succeed. I wrote a computer algebra system using C# that could operate over ASP.net; it would show its work and solve problems up to Differential Equations. It had a bunch of neat stuff including the ability to render images of complex forms, and I was working on CLI which would be more interactive. Here is where I started to get depressed with teaching mathematics. It's stupid to teach something that computers can do better. instead, we should teach the ideas of modeling and how to use computers to solve interesting problems. 
+    <p></p> 
+    <p></p> 
+    <h4>Fire/Inferno &&parsing&& &&serialization&&</h4>XML is ok, but I hate the idea of having text serialization. I love binary serialization. So, I combined them into a unified form. Essentially, development would work in XML and all assets would be stored in XML. So, I created a language which enabled me to describe an object model. The tool would interpret the language and build serialization code for both XML (C# + C) and binary (C only). I could write my tooling in C#, then load the data in C. Then to ship to production, I could convert the data to binary. 
+    <p></p> 
+    <p></p> 
+    <h4>Kitchen Suite &&graphics&& &&ai&& &&architecture&& &&comp-sci&&</h4> I decided that Cauldron 1.0 didn't do what I wanted since the introduction of geometric shaders broke everything, so I rewrote everything and went for the killer platform. This turned into Kitchen Suite. 
+    <ul> 
+     <li><b>Butcher's Block</b> Once one has a scene graph format, the next thing to do is to build the editor. This was my editor for making and defining scenes in Kitchen</li> 
+     <li><b>Fork</b> my GUI editor which would enable me to design a user interface and the compile it to a single texture. The coolest thing in this was the space packer which not only packed boxes, but packed to preserve transparency so there could be overlap.</li> 
+     <li><b>Grill</b> I wrote my own scriptable VM with my own programming language parser. Essentially, I wrote my own programming language along with my own interpretted byte code.</li> 
+     <li><b>Cauldron 2.0</b> The mega version of all my graphics engine research and development; it was a massive beast of progress which supported: Geometric Shaders, BSP Tress (for transparent objects), Textures, Shaders, Articulated Skeletons with Animations (successor of zModel), LOD based terrain rendering (SOAR), Texture Atlases, Scene Graphs, an optimize context-switch minimizing rendering pipeline, a re-entrant rendering system (supporting both mirrors and cameras). </li> 
+     <li><b>CounterTop</b> My version of SDL. I do not kid. I was writing linux/windows platforms wrappers so that I could speed a very high level language. I got OpenGL and DirectX 9 working.</li> 
+     <li><b>Spoon</b> was an GUI agent modeller. Essentially, I tried to bake my own reward/penalty graph model. It didn't work, but it was fun to use. You felt real productive.</li> 
+     <li><b>Knife</b> was a set of experiments in computation geometry. Essentially, given a complex environment, it would cut up the open space and turn it into a graph. This enable 3D path finding for very complex AI behavior. I did flow analysis to find choke-points, and it was slow as dirt. However, the output would be a complete map to a static environment which enable one to easily write intelligent looking agents.</li> 
+     <li><b>Pantry</b> was a asset manager/file system/tar/valut. Essentially, you loaded the pantry into memory and you could access your textures, models, scripts, etc. This was a more modern version of Zen's Resource Engine.</li> 
+    </ul> 
+    <p></p> 
+    <p></p> 
+    <h4>vec4u &&compiler&& &&hacking&&</h4>I love fast code. If you want to do vector math fast, then you must do SSE. I wrote a specialized vector math compiler that lets me describe a vector formula in terms of scalars, vectors, matrices, and quaternions. It had a typing system and a C compiler. 
+    <p></p> 
+    <p></p> 
+    <h4>Graph Modeling &amp; Editor (GEM) &&ai&& &&rich-client&& &&comp-sci&& &&serialization&&</h4>My first specification compiler of goodness. Most A.I. applications use a graph of sorts. I like graphs. I wrote a generic graph library for BNJ and adapted it to suit a generic needs. I wrote an XML specification to annotate and describe graph rules. The graph rules would be used for the editor to ensure correctness. The editor could compile the code into C++ or Java for serialization. By automating this process, I could easily describe an A.I. domain with a graph and have both an editor and routines in my language to use the graph. It is a bold project, and I aim to finish it someday with my latest technology. 
+    <p></p> 
+    <p></p> 
+    <h4>BNJ 3.0x &&ai&& &&rich-client&& &&comp-sci&&</h4>Working with 
+    <a href="http://people.cis.ksu.edu/~bhsu/">Dr. Hsu</a>, I re-architected 
+    <a href="http://bnj.sourceforge.net/">BNJ</a> by rewriting the inference engine improving the performance exponentially, enable lazy evaluation (so it could compute multi-GB spaces with sub-GB memory at the expense of CPU), and enabling algebraic inference (hence why I needed to learn to build a computer algebra system). I also rebuilt the UI to be usable and enable students to learn how bayesian inference works at an algorithm level. There are some videos of this here: 
+    <a href="http://www.kddresearch.org/Groups/Probabilistic-Reasoning/BNJ/Screenshots/v3/">@kddresearch.org</a>. 
+    <p></p> 
+    <p></p> 
+    <h4>Cauldron 1.0 &&graphics&& &&architecture&&</h4> My ultimate 3D rendering engine. I took everything I learned in RaGE, made it better. Essentially, I developed a very lean rendering pipeline and figured out everything that makes a modern 3D engine... modern. The solution is to seperate out the culling from the marshalling, so you cull your scene down to N objects, then you organize those N objects such that it makes sense. Sorting objects in real-time is very easy. 
+    <p></p> 
+    <h3>Experiments During University (2001 - 2005)</h3> 
+    <p></p> 
+    <h4>Evolution XP, EvoServer, Evolution 4000 &&networking&& &&graphics&& &&architecture&& &&ai&&</h4>Revolution, a mac game, was a cute little game. I worked on reverse engineering it to PC along with networking support. I used my prior 3D engine, and I had a nice integration. However, I became more interested in A.I. and Differential Game Theory (which I still study). I also started building a trading engine and network engine (EvoServer) to simulate an economy for a galactic empire. Evolution 4000 was the first C++ engine, and Evolution XP was the next version (which didn't get finished.. :( ). EvoServer was my first C# server. 
+    <p></p> 
+    <h4>AsyncServer &&networking&&</h4>A C# version of Zen's Overlapped Server; the same interfaces, but using Microsoft's .NET platform. It worked very well and was used on a funded project for AIdentity Matrix. 
+    <h4>LOTR Risk &&networking&& &&games&&</h4>Using C#, I whipped up a very basic implementation of lord of the rings risk. The novel aspect was a complete rule engine, and I scanned art assets in from the board game.
+    <p></p> 
+    <h4><a href="http://sourceforge.net/projects/ggplus/">GG+</a> &&comp-sci&& &&architecture&& &&graphics&& &&rich-client&&</h4>I redesigned my game engine using Open Scene Graph (OSG), and I implemented a GUI system (Graph GUI plus : GG+). I released GG+, and I got good feedback. However, I got too many demands. I also found that OSG had way too many bugs, and didn't do things the best way. 
+    <p></p> 
+    <h4>ZIMS and MIMS &&networking&& &&database&&</h4>I wanted a project management system, so I wrote one. It used a blog format with special codes to track project status. ZIMS = Zenerd Information Management System. MIMS = Mathsex.com Information Management System. 
+    <p></p> 
+    <h4>Progressive Mesh &&graphics&& &&comp-sci&&</h4>I implemented a progressive mesh algorithm for my Written Communication for Engineers course when I was a sophomore (later, I would be told that it was senior level course... oops). I pwn'd the exiting seniors. I also devised my own texture format which I used for several years. 
+    <p></p> 
+    <h4><a href="http://sourceforge.net/projects/libquest/">libQuest</a> &&games&& &&comp-sci&&</h4>This was based on GTA3. I wondered how it did the quests, so I reverse engineer how GTA3 did it using a language based approach. I didn't write the parser, but I had eval() done. There was a focal point that one can invent programming languages and machines without writing the complex parsers. It worked very well, and I had planned to upgrade it using my new stuff. 
+    <p></p> 
+    <h4>SliceEm 3D &&front-end&& &&parsing&& &&graphics&& &&rich-client&&</h4>3D Modeling is hard, and I just took a topology course. I designed a 3D compiler to take cross sections and stitch them back into 3D models. I designed a troll that looked horrible, and I don't think it would be adequate for real artists. However, I had some neat ideas. 
+    <p></p> 
+    <h4>Zen's Time Line &&parsing&& &&comp-sci&&</h4>This is my first customized MFC control. It is a drag and drop Time Line editor for scheduling jobs. It was constructed for Character Exhibitor as the primary way of editing time line events. People then 
+    <a href="http://bit.ly/Ycs5AD">three years after I made it.</a> 
+    <p></p> 
+    <h4>Character Exhibitor &&parsing&& &&rich-client&&</h4>Animation is hard, and I suck at animation and 3D modeling. This project was designed to help me provide a mathematical description of animation. Needless to say, it didn't work. However, I did make some neat code. 
+    <p></p> 
+    <h4>RaGE &&graphics&& &&architecture&&</h4>This was my first 3D engine designed for multi-threaded processing. I just took the Operating Systems course, and I was very interested in building multi-threaded games. I knew that systems would be dual-core soon enough, and I wanted to be prepared. I was right. (I did not imagine dual core mobile device... holy cow) 
+    <p></p> 
+    <h4>phpMathML &&front-end&& &&comp-sci&& &&parsing&&</h4>I was typing several math documents for school, and I didn't want to learn LaTeX since I can do better. I was happy to see that there were projects working towards MathML. However, all the solutions were client-side. I wanted a server side solution, so I wrote one. It had roughly 60% of work (integrals are amazingly hard) done until I decided to learn LaTeX. 
+    <p></p> 
+    <h4>Stocks! &&networking&& &&business&& &&comp-sci&&</h4>A friend and myself were interested in predicting the stock market. We were looking into localized patterns. Yes, you can locally predict the stock market to a degree because people are predictable. I designed a stock market search algorithm, and it worked. I could predict various patterns. However... my IP got banned from Yahoo because my connection was pulling tons of information. The search algorithm worked, but wasn't fast enough to be practical as the market moves very fast. 
+    <p></p> 
+    <h4>Monty Hall 2002! &&comp-sci&&</h4>Do you know the Monty Hall question? Well, this is one that gets people in trouble. The answer is &quot;Switch Doors&quot; because P(Win) = 2/3. Well, the proof sometimes bounces off people. So, I wrote this program to test either choice. It simulated the game and gave the expected result. It messes with people since the code is step by step and perfectly &quot;logical&quot;. Why do people prefer statistics over logical rigor? 
+    <h3>Prior to University (1998 - 2001)</h3> 
+    <p></p> 
+    <h4>File Sharing Accelerator &&front-end&& &&networking&& &&business&& &&serialization&&</h4>Napster was the thing, so a friend and I decided to get out in that market. We built File Sharing Accelerator to do just that. It was &quot;File Sharing Accelerator, the next generation of peer 2 peer client software, brings a new level to file sharing over the internet.&quot; It had (a) segmented/chunked download, (b) downloading from multiple sources, (c) automatic download resume, (d) rate control for both upload and download, (e) a file being downloaded will survive disconnects, software crashes, and power outage, (f) file preview/stream, (g) file fragmentation avoidance, (h) fast action queue (WTF did this mean?), (i) a multi-threaded file server. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's File Compare &&comp-sci&& &&business&&</h4>Given file A and file B; how do you compare them? comparing the file names can be tricky since people can't spell. So, you have to go deeper and use a check-sum. This was a toolkit for comparing files in strange ways. Essentially, I was trying to determine if two music files were the same. So, it dug deep and used some very primative heuristics. Then, I scrapped the whole thing to just use a md5 over the file. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Standard Library &&comp-sci&&</h4> I had a bunch of code that I organized into a library. The crown of this library was a radix sort that was extremely efficient (if you had the extra memory). I was into sorting since sorting solves so many problems if you apply it correctly. Radix sorting is extremely fun, and I highly recommend it. I used it in clever ways. For instance, I'd sort the middle of an array to figure out how to pivot the quick sort. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Quad Tree &&comp-sci&&</h4> How do you render many several ants that are on screen versus several thousand ants that are off screen. Playing with OpenGL's frustrum and culling wasn't enough to optimize rendering. Instead, you had to not send data to OpenGL which you knew wasn't going to be shown. I played with a simple BSP to begin with, but it doesn't scale like a quad tree. Quad trees are fun, and I recommend. They make a good architecture/design problem to make generic enough to be re-usable. 
+    <p></p> 
+    <p></p> 
+    <h4>Card Counter &&comp-sci&&</h4> I was about to graduate, and we were going to have a senior celebration party that had black jack. I wanted to learn to count cards, so I wrote a tool to help me. Then I used it online to try to give myself a competitive advantage. It didn't help, but writing it was fun. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Console &&parsing&&</h4> How did quake parse and process commands? I found it fun to &quot;hack&quot; quake's console, so I made my own. I made a very basic programming language which started to get more complicated and ever harder to reason about with special cases. I eventually extended it so that I could have it manipulate config. It's magic when you type code into your own program and it does things. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Overlapped Server &&networking&&</h4> In the failure of multicast, I wrote a windows server to use overlapping IO to use a pool of threads to handle many concurrent connections. I will say this: threads are hard. Sharing threads between requests is even harder. This was a fun experiment where I ported a bunch of my other code over and experimented with concurrency. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Resource Engine &&architecture&& &&serialization&&</h4> Making a game requires a lot of art in a specific format. I made my own version of .tar that was similar to .pak files. Essentially, I could stream data from a giant file or I could override it on disk. It was to enable modding. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Heap &&comp-sci&&</h4> Memory management sucks, so I &quot;invented&quot; reference pointers. OK, I didn't invent them. But, I thought I did. I made my own heap which could compact itself and what-not. Essentially, you never held onto real pointers. Instead, you held pointers which had pointers to the actual data. The clever thing was making this testable, I would randomly move around memory so bugs would be detected fast. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Multicast Toolbox &&networking&& &&architecture&& &&comp-sci&&</h4> Internet2 was the thing along with IPv6 that was going to storm the internet. The core idea with multicast was that I wanted to have a massive server, and if you can trust the players, then you can use multicast to provide fast positioning. Instead of a server handling n connections to sent n updates; imagine sending one update to &quot;the network&quot; and all the magic would work for you. I made it work on my home LAN, but it didn't work on the internet. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Theatre &&architecture&& &&graphics&&</h4> Animation was the name of the game. I was learning and experimenting with two thing. Making quake 2 models animate, and then figuring out half-life's mdl files. It's a special time when a boy creates animated life that can wave and jump around on his command. 
+    <p></p> 
+    <p></p> 
+    <h4>Wealth &&games&&</h4> Again, I like board games. So, I wrote a text based version of Acquire which I thought would be a fun game to play. So, I wrote a text version of it. It was complete with kludgy AI. The game turned out to not be very much fun. I did however learn a bunch about writing text applications. 
+    <p></p> 
+    <p></p> 
+    <h4>zModel &&graphics&& &&serialization&&</h4> Once one has terrain, one needs ants, right? I was annoyed that (a) loading .OBJ files was text and seemed slow. So, I wrote my own binary format along with a tool to convert .OBJ to my .zmc format. Then, I realized I need to animate them and got addicted to writing plugins for 
+    <a href="http://www.milkshape3d.com/">MilkShape3d</a>. There's something special when you write a plugin and see it working in another person's program; it was a special time in a boy's life. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Terrain Editor &&rich-client&& &&graphics&& &&architecture&&</h4> When you make a real 3D terrain engine, you need your own editor. Essentially, this was a 3D texture editor where I could carve out space to make tunnels. It used MFC+OpenGL which was a pretty fun combination to work with back in the day. 
+    <p></p> 
+    <p></p> 
+    <h4>Ant Colonies &&graphics&& &&architecture&& &&games&& &&ai&&</h4> This is why I made Zen's 3D Warp Engine. I was building a strategy game with ants. The goal was to build a colony of ants and it was going to be a 3D strategy game in 3D using real 3D. That is, the terrain would be fully destructible and smooth. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's 3D Warp Engine &&graphics&& &&architecture&&</h4> 
+    <a href="http://en.wikipedia.org/wiki/Marching_cubes">Marching Cubes</a> is among my favorite graphics algorithms. I invented my own data structure for this project. Essentially, I wanted fully destructible terrain. I wanted the ability to add or subtract land and the terrain engine would efficiently update. The kicker was how to evaluate marching cubes efficiently. So, I invented a very simple data structures to simplify the cubic algorithm into a quadratic one (which is the terrain problem). This taught me about permutation and table based programming. 
+    <p></p> 
+    <p></p> 
+    <h4>ZenGame &amp; ZenGameEditor &&graphics&& &&rich-client&&</h4> Board games are fun. ZenGame was my run-time environment and ZenGameEditor was the start of a generic board game editing tool that could be scripted with VBA. Having used VBA in Excel to do some mad cool things. The idea was to make a graphical editor which would build a board, then you use VBA to design the rules and interaction. This project consume a bunch of time, but it suffered from the second system effect. 
+    <p></p> 
+    <p></p> 
+    <h4>zEngine &&graphics&& &&architecture&&</h4> 3D Graphics were the thing back in the day; the leading edge of computer graphics. I experimented a bunch with OpenGL to make my first terrain engine. I fancy terrains because it is a fairly complex problem when done right. This wasn't done right, and it demonstrated my need to learn some real algorithms.' 
+    <p></p> 
+    <p></p> 
+    <h4>ZenRisk &&games&&</h4> My friends and myself were addicted to Risk and Monopoly. We play board games more times than I can remember, so I wrote my own version for Windows for my Computer Programming Course. It worked really well until I started on the AI which was a disaster. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Network &&networking&&</h4> I wrote some networking code. Specifically, I wrote a very simple Chess game that used TCP to transmit state changes. I had a very poor understanding of state machines, but I clobbered something together. It worked, and I added chat and started to try to generalize the framework. 
+    <p></p> 
+    <p></p> 
+    <h4>Counter Strike Cross-Hair &&hacking&& &&graphics&&</h4> I'll be honest: I like to change the rules of my games. It annoyed me to no end that Counter-Strike had sucky cross-hairs. So, I made my own. I hacked the windows graphic context (GC) to write pixels. I also made a zoom which would put a zoomed version of the context behind the crosshair in the upper right hand screen. It was fairly baller at the time. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Universal Proxy &&networking&& &&hacking&&</h4> Networking, is the computing equivalent to physics' magnetism. It amazes me every time I interact with something here and something over there happens. We take advantage of all this Internet stuff today, but it was just coming out when I grew up. I wrote this simple proxy to intercept and enable me to discover what the protocol was actually doing so I could hack together a client or server to do my bidding. 
+    <p></p> 
+    <p></p> 
+    <h4><span>Legacy &&business&& &&front-end&&</span></h4> S curves, statistical tools, Fortran, oh-my. There once was a tool that was made in fortran. It's output was rather unseemly. This is where I did really bad things to make a tool that I am absolutely ashamed of. Needless to say, I was paid well for 16 year old. This was before I knew regular expressions, and I basically hand-crafted filters and heuristics to convert old reports into Access database tables. The shame. 
+    <p></p> 
+    <p></p> 
+    <h4>Zen's Excel Toolkit &&business&&</h4> At work, I was a mad wizard at Excel. This was a library of Excel macros, functions, and subroutines in VBA that enabled me to do some nice things. I can't remember what, but I got a bunch of praise for the effort. No one used it though since it was fairly complicated :(. 
+    <p></p> 
+    <p></p> 
+    <h4><span>ZenDirPrint &&business&&</span></h4> Roseanne was a co-worker at 
+    <a href="http://bv.com/">Black &amp;. Veatch</a>, and she had a problem. She wanted to be able to easily print out a directory listing. I made a very simple tool using Visual Studio along with the appropriate .inf to install a context sensitive menu to print the directory. It would simply list the directory, put the result into a temporary html file, then open it in Internet Explorer to print. I was a hero. 
+    <p></p> 
+    <p></p> 
+    <h4><span>MCDIntranet &&networking&& &&front-end&&</span></h4> My first job was at 
+    <a href="http://bv.com/">Black &amp;. Veatch</a> where I was a techno guru. This was the first project I took on to implement things that people wanted. Granted, I was also the guy that cleaned out the tech closet (and had to clean out a cubicle of junk for my first office). I also provided technical support on printers, networking, Microsoft Office, and Excel. So, a bunch of odd jobs. The most important thing I produced was an intranet that existed prior to sharepoint. I also made this form where people would sign-in and out of the office; this was a common secretarial task before groupware which enabled office calendars. 
+    <p></p>        </div>
+        <div class="col-md-5">
+          <h2 class="featurette-heading">S<span class="text-muted">k</span>ills</h2>
+		  <p>
+			  {{#tags}}<em class="tagdefn">{{tag}}</em> x {{count}}{{#ticks}}<i class="icon-large icon-star"></i>{{/ticks}}<br/>{{/tags}}
+	   </p>
+
+		<!-- TODO: find a good image for this 
+          <img class="featurette-image img-responsive" src="big-data.png" />
+		  -->
+        </div>
+      </div>
+

@@ -23,6 +23,10 @@ So, this evening I learned that I can, in fact, still eat a whole large pizza. I
 
 Wow, this is hard.
 
+# 4/30
+
+Well, I made it... that sucked.
+
 # Slip ups
 
 * a sausage and cheese scone
@@ -31,4 +35,6 @@ Wow, this is hard.
 
 # In conclusion.
 
-#!hhhh=I started with a weight in the range of 405 to 410 lbs, and I ended with a weight in the range of 390 to 395.
+I started with a weight in the range of 405 to 410 lbs, and I ended with a weight in the range of 392 to 397. I am happy with that for a month. So, what's next?
+
+

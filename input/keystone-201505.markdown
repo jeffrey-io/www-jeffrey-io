@@ -7,6 +7,16 @@ The goal for this may is to converge to the <a href="http://en.wikipedia.org/wik
 
 My goal is to try to balance a bit of joy with a bit of intensity. I found the slow carb diet too intense when I was exercising, and this threw me off course. The ravenous hunger after seven miles consumed me. If I can satisfy the intense hunger and desires on thursday through sunday without over indulgence, then maybe I can endure three days.
 
+# 5/12 Update
 
+Today was a bit rough, and I went off the reservation. Namely, there were butterscotch sandies available. They were amazing. This was probably triggered due to having some barley soup. I also had a bit of froyo, but not enough since it was either really slow or it ran out.
 
+# 5/14 Update
 
+I was hoping to avoid eating carbs today, but it is 2:00am. I'm tired as heck, and I'm hungry. So, I had some of the emergency carbs I keep on hand for this reason.
+
+I have experienced diet related insomnia before, but it wasn't as bad last week. Now, it's pretty bad. 
+
+I'll try to behave the rest of the day.
+
+This is hard, and it's only three days.

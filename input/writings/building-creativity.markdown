@@ -13,7 +13,7 @@ Suppose one takes the typical path and graduates college. What are they? I like 
 
 ## Volume, Volume, Volume
 
-Beginners know nothing, so should they focus their efforts into trying to build one thing well? I think this is a mistake because their palette is limited. My philosophy is to try lots of things. Have an idea, and then quickly try to realize it as fast as possible. Make lots of stuff. Make lots of crap. Make, Do, Make, Do.
+Beginners know nothing, so should they focus their efforts into trying to build one thing well? I think this is a mistake because their palette is limited. My philosophy is to try lots of things. Have an idea, and then quickly try to realize it as fast as possible. Make lots of stuff. Make lots of junk. Make, Do, Make, Do. Be fearless, and make a mess. Do. More. Make. Harder. Create.
 
 ## Reserve Judgement
 

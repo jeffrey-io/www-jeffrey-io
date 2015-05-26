@@ -1,12 +1,27 @@
-#!title=Terms
+#!title=Content Not Found
 #!path=contact/global-tag-index
 #!use-template=normal
+#!audit=MAY2015
+#!noindex=true
+
       <div class="row featurette">
         <div class="col-md-1">
 	    </div>
         <div class="col-md-6">
-          <h2 class="featurette-heading">Global Index</h2>
+          <h2 class="featurette-heading">Whoopsie!</h2>
           <p class="lead">
+            It appears the content you were looking for is no longer here... This makes me sad. Most likely, it was moved. Below you will find a helpful index of my site.
+          </p>
+          <h3>URLs</h2>
+
+      <ul>
+      {{#global-url-index}}
+        <li><a href="{{url}}">{{title}}</a></li>
+      {{/global-url-index}}
+      </ul>
+
+          <h3>Site by Tags</h2>
+          <p>
       {{#global-tag-index}}
          <ul><li>{{name}}</li>
              <ul>{{#ref}}<li><a href="{{url}}">{{title}}</a></li>{{/ref}}</ul>

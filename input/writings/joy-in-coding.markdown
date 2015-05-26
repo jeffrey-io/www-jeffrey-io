@@ -2,6 +2,7 @@
 #!path=writings/$
 #!use-template=writing
 #!order=1
+#!audit=MAY2015
 
 <img style="width:100px; float:right" src="basic-games.jpg">
 I have been slinging code since I was six years old. It started by simply transcribing games from BASIC COMPUTER GAMES (pictured to the right). I'm nearing my mid thirties with practically three decades of exposure to computers, and it still doesn't get old.

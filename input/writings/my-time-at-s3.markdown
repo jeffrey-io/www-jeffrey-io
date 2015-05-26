@@ -2,9 +2,10 @@
 #!path=writings/$
 #!use-template=writing
 #!order=399
+#!audit=MAY2015
 
 <img style="float:right;width:200px" src="big-data.png" />
-December 1, 2014 was my last day at Amazon S3. I joined March 28, 2011 and witnessed tremendous growth. I left as [a senior software engineer](http://www.linkedin.com/in/jeffreymbarber), and I was with <a href="http://s3.amazonaws.com">Amazon S3</a> since around four hundred billion objects, and I helped shipped several public features:
+December 1, 2014 was my last day at Amazon S3. I joined March 28, 2011 and witnessed tremendous growth. I left as [a senior software engineer](http://www.linkedin.com/in/jeffreymbarber), and I was with [Amazon S3](http://s3.amazonaws.com) since around four hundred billion objects, and I helped shipped several public features:
 * [server side encryption](http://aws.amazon.com/about-aws/whats-new/2011/10/04/amazon-s3-announces-server-side-encryption-support/)
 * [object expiration](http://aws.amazon.com/about-aws/whats-new/2011/12/27/amazon-s3-announces-object-expiration/)
 * [glacier archival](http://aws.amazon.com/about-aws/whats-new/2012/11/13/amazon-s3-now-supports-archiving-data-to-amazon-glacier/)

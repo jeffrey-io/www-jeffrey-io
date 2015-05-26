@@ -1,7 +1,8 @@
 #!title=Build First, Buy Second
 #!path=writings/$
 #!use-template=writing
-#!order=1
+#!order=100
+#!audit=started
 
 Most projects involve a series of decisions revolving around building your own inhouse or buying an off the shelf product to adapt. For clarity, buying could mean picking up a free open source project. You can already infer my opinion from the title, so I'll justify it now.
 

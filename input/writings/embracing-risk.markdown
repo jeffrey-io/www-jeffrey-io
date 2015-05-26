@@ -3,7 +3,7 @@
 #!use-template=writing
 #!order=230
 
-I tend to buck the status quo and do crazy shit. Doing crazy shit tends to have greater risk than less crazy shit. As I get older, I tend to do more and bigger crazy shit. I see a trend in peers, especially engineers, to be risk averse. It is natural as you age and you gain experience from failures. My honest opinion is that are success teaches us little while failures teach us the most.
+I tend to buck the status quo and do crazy things. Doing crazy tends to have greater risk than less crazy. As I get older, I tend to do more and bigger crazy things. I see a trend in peers, especially engineers, to be risk averse. It is natural as you age and you gain experience from failures. My honest opinion is that are success teaches us little while failures teach us the most.
 
 The thing that I have learned is that if you are not failing, then you are not growing fast enough. I have wondered if this is too harsh of a view point, but I think failure comes with trying new things. The thing about failure is that it sucks emotionally. At the same time, it is hard to quantify the lessons learned during a failure. Every time I fail big, I tend to just want to crawl into bed and put the covers over my head. This is the pity party phase of post-failure. This party should be bound to less than an hour or a good nights sleep. Once the party ends, stand up and get back to it. I simply follow my ABCs.
 

@@ -5,7 +5,7 @@
 
 Software peoples (Hackers, Coders, Programmers, Developers, Software Engineers, etc...) as a group (mostly) want to make good code. The core problem is that code quality does not exist on a spectrum from bad to good. It is very easy to armchair arbitrate code quality and say "oh, that code is bad because {X}" rather than focus on what the code does well. I know I'm guilty of this.
 
-The core reason we care is because we the software peoples have to deal with code every single day, and we like making our customers happy. Bad code (i.e. shit) makes us unhappy as it becomes difficult to extend and support. The paradox that I have seen is one can make a product with good code, but all it takes is one feature request to induce a realization why it is all wrong and bad.
+The core reason we care is because we the software peoples have to deal with code every single day, and we like making our customers happy. Bad code makes us unhappy as it becomes difficult to extend and support. The paradox that I have seen is one can make a product with good code, but all it takes is one feature request to induce a realization why it is all wrong and bad.
 
 Code quality is a multidimensional beast, and it is very hard to measure. Does this mean we should give up and just do what we want? Well, I think defining good code leads to a path of painting a bike shed because personal taste can dominate what good code means. Instead, I want change the game. Instead of thinking about code as good and bad, I want to create some conditions for "Organic Code".
 

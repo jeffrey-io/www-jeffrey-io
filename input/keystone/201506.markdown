@@ -1,0 +1,11 @@
+#!title=June 2015
+#!path=experiments/$
+#!use-template=writing
+#!order=2
+
+Given that May did not go so well, I've decided to go back to what worked in April then add exercise and fitness. I'll have more details when I finish my plan on Monday.
+
+# 6/1 Planning
+
+....
+

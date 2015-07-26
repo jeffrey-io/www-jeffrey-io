@@ -40,7 +40,7 @@ Or is it?
 
 # Balance
 
-The most difficult thing is to balance too opposing forces. In my case, I see a hard path to my right with hefty intellectual and creative forces producing something beautiful. On my left, is a liberal fun super fun creative romp orgy of making.
+The most difficult thing is to balance too opposing forces. In my case, I see a hard path to my right with hefty intellectual and creative forces producing something beautiful. On my left, is a liberal fun super fun creative party of making.
 
 The solution, in my opinion, is to go to the left while exercising discipline. Discipline is what you learn when you need to build things on time, under budget, and hit a deadline.
 

@@ -2,6 +2,7 @@
 #!path=writings/$
 #!use-template=writing
 #!order=1
+#!audit=JUL2015
 
 Here is a collection of thoughts about being a successful software person (i.e. software engineer, hacker, person that touches code randomly, designer who codes, programmer, systems engineer, administrator, etc...)
 
@@ -55,7 +56,7 @@ It's OK and natural if some days suck, but if most days start to suck, then you 
 
 ### Build an Empire and Own it.
 
-The product is a kingdom, so learn about every parcel. Pick areas and take ownership (preferably areas that are not already owned and have scary business risk with them). Be the 'go-to' person for the various realms of the kingdom. Make sure that if shit hits the fan, then you can ride in on your white horse and save the day.
+The product is a kingdom, so learn about every parcel. Pick areas and take ownership (preferably areas that are not already owned and have scary business risk with them). Be the 'go-to' person for the various realms of the kingdom. Make sure that when bad things happen (and they will), then you can ride in on your white horse and save the day.
 
 The natural side effect of this is that you own a piece of the kingdom, and you can start to make long term decisions regarding your parcels. After all, you will be the expert on that region of the kingdom.
 

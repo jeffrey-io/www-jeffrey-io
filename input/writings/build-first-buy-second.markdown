@@ -2,7 +2,7 @@
 #!path=writings/$
 #!use-template=writing
 #!order=100
-#!audit=started
+#!audit=JUL2015
 
 Most projects involve a series of decisions revolving around building your own inhouse or buying an off the shelf product to adapt. For clarity, buying could mean picking up a free open source project. You can already infer my opinion from the title, so I'll justify it now.
 
@@ -44,7 +44,7 @@ Once you get past the programming, the big reveal is that a typical game is usua
 
 ## Game Engine
 
-The yak-shaving aspect of making a game is that you focus on making the game engine. For simple games (like the above suggestions), it is very simple to just make them. However, suppose you wish to create a 3D world. Now, the nice thing is: this is a great adventure. The unfortunate thing is: it can be very hard. For this aspect, I highly suggest going through <a href="http://www.amazon.com/gp/product/0122290631/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0122290631&linkCode=as2&tag=zenerdcom-20">3D Game Engine Design: A Practical Approach to Real-Time Computer Graphics (Morgan Kaufmann Series in Interactive 3D Technology)</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=zenerdcom-20&l=as2&o=1&a=0122290631" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />; this book is an amazing guide for learning all the math and design patterns to build a rendering engine. Once you have a rendering engine, you have (most) if all the primitives you need to create a 3D world.
+The yak-shaving aspect of making a game is that you focus on making the game engine. For simple games (like the above suggestions), it is very simple to just make them. However, suppose you wish to create a 3D world. Now, the nice thing is: this is a great adventure. The unfortunate thing is: it can be very hard. For this aspect, I highly suggest going through [3D Game Engine Design: A Practical Approach to Real-Time Computer Graphics (Morgan Kaufmann Series in Interactive 3D Technology)](http://www.amazon.com/gp/product/0122290631/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0122290631&linkCode=as2&tag=zenerdcom-20); this book is an amazing guide for learning all the math and design patterns to build a rendering engine. Once you have a rendering engine, you have (most) if all the primitives you need to create a 3D world.
 
 ## Custom Controls
 

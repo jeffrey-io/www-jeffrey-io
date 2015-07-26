@@ -2,6 +2,7 @@
 #!path=writings/$
 #!use-template=writing
 #!order=9
+#!audit=JUL2015
 
 I am at the age where my peer group is having kids, and I have elected (along with my wife) to not have kids. The thing that I believe is that it takes a village to raise kids, and I like the idea of being that crazy uncle. In a former life, I was on the path of "the educator". I love learning, and I love watching the spark come alive in people when I find the right combination of ideas in the the proper sequence to unlock ideas in another person.
 
@@ -11,7 +12,7 @@ When I look and think about the kids that I'm watching grow up via facebook. I c
 
 These days, in the context of children, I think mostly of education. The ironic thing is that when I was growing up, I hated school. Absolutely, without a doubt, hated it with a passion. I hate memorizing stupid dates, names, and other things that I can't use. The goal of education is noble: we want to enrich the minds of students so they can lead prosperous lives. Children should grow up to be knowledgeable and intelligent adults.
 
-Intelligence is a difficult thing to measure. And, we humans, love to measure shit. It's a simple industrial revolution idea: once you can measure shit, then you can manage shit. I pose a simple thesis: useful intelligence is not measurable anymore.
+Intelligence is a difficult thing to measure. And, we humans, love to measure. It's a simple industrial revolution idea: once you can measure it, then you can manage it. I pose a simple thesis: useful intelligence is not measurable anymore.
 
 The rules to the game of life are ever changing. The moment you figure out how to measure, optimize, standardize, and win at the current set of rules; the rules change such that the old tricks no longer work. And, by rules, I mean the competitive landscape, what works, what is relevant, what skills you need, and any other things that you need to survive as a successful adult. I believe that if these children want to grow up and have successful lives, then their parents need to start preparing them for the unknown. School curriculums... do not do this.
 
@@ -27,7 +28,7 @@ My core thesis is that the formative year curriculum were not very important to 
 
 Grades and ranking. This idea is, in my opinion, very toxic. You get a D, and your life is over. Your parents will punish you. Bad things happen to D students. You get two Ds, then you might as well just give up.
 
-The word I'm wanting to weave in here is "risk". Students that get perfect grades... don't take risks; they work hard, eat shit, and deliver what is asked of them. I believe that success in this world comes from a healthy understanding of risk. The problem in taking risks is that you might fail. You get the big fat "F", and then you have to deal with disappointed parents who make you feel like shit. Failure sucks, I get it. I've failed and fallen down more times than I care to admit, but I'm still standing. Perhaps, this is survivorship bias.
+The word I'm wanting to weave in here is "risk". Students that get perfect grades... don't take risks; they work hard and deliver what is asked of them. I believe that success in this world comes from a healthy understanding of risk. The problem in taking risks is that you might fail. You get the big fat "F", and then you have to deal with disappointed parents who make you feel terrible. Failure sucks, I get it. I've failed and fallen down more times than I care to admit, but I'm still standing. Perhaps, this is survivorship bias.
 
 In my opinion, failure isn't the worst thing. The worst thing is to not try something you want due to fear of failure. Unless the thing you want to do is going to probably kill you, then there's no reason to run away from it. If the thing you want to do is going to kill you, then it might be worth just for the story alone. Living life, I believe, is best done with a proper respect for risk.
 

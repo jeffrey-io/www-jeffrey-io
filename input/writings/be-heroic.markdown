@@ -2,6 +2,7 @@
 #!path=writings/$
 #!use-template=writing
 #!order=399
+#!audit=JUL2015
 
 When I think about people, I think everyone has their strengths and weaknesses. Recognizing this, you have two choices. You can grow your strengths or grow your weakness. My opinion is that you should grow your strengths with the explicit goal of becoming a heroic champion of that strength.
 

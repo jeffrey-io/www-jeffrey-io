@@ -2,6 +2,7 @@
 #!path=writings/$
 #!use-template=writing
 #!order=9999
+#!audit=JUL2015
 
 I have been coding for the majority of my life. The last three years, a focus of mine has been on mentoring junior engineers. I like mentoring because I had a really good mentor, and I know the impact it can have. The mentor that I am specifically refering to now is Dr. Burckel from Kansas State. I remember hearing quiet whispers from my peers that he was a hard professor, so I made sure to take his analysis class. I like to challenge myself.
 

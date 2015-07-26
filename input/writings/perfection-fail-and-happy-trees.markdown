@@ -2,11 +2,11 @@
 #!path=writings/$
 #!use-template=writing
 #!order=2
-#!video=https://www.youtube.com/embed/YLO7tCdBVrA
+#!audit=JUL2015
 
 Failing sucks. Whenever I fail, I sometimes will watch the following video. So, please watch it now.
 
-<iframe width="560" height="315" src="{{{video}}}" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YLO7tCdBVrA" frameborder="0" allowfullscreen></iframe>
 
 This video inspires me, and it makes me feel better regardless of my state. It helps me put everything in perspective. It's kind of silly, but when you realize that all failures<sup>1</sup> are happy accidents, then everything is in place.
 
@@ -48,6 +48,6 @@ The solution, in my opinion, is to go to the left while exercising discipline. D
 
 Every failure<sup>1</sup>, even death, teaches humanity how to be better. A classic software case study is [Therac-25](http://en.wikipedia.org/wiki/Therac-25) which revolved around a machine which killed six people. Some people would say that it should never have shipped, but this seems even more cruel? Software is hard, and if it was shipped to be perfect, then how many people would have died waiting?
 
-Everytime in life has a purpose, and our goal is to learn from everything. Enjoy life, roll with the punches, and get things done.
+Everything in life has a purpose, and our goal is to learn from everything. Enjoy life, roll with the punches, and get things done.
 
 <sup>1: a world ending event would probably not be a good failure...</sup> 

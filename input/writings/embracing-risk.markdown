@@ -2,14 +2,15 @@
 #!path=writings/$
 #!use-template=writing
 #!order=230
+#!audit=JUL2015
 
 I tend to buck the status quo and do crazy things. Doing crazy tends to have greater risk than less crazy. As I get older, I tend to do more and bigger crazy things. I see a trend in peers, especially engineers, to be risk averse. It is natural as you age and you gain experience from failures. My honest opinion is that are success teaches us little while failures teach us the most.
 
-The thing that I have learned is that if you are not failing, then you are not growing fast enough. I have wondered if this is too harsh of a view point, but I think failure comes with trying new things. The thing about failure is that it sucks emotionally. At the same time, it is hard to quantify the lessons learned during a failure. Every time I fail big, I tend to just want to crawl into bed and put the covers over my head. This is the pity party phase of post-failure. This party should be bound to less than an hour or a good nights sleep. Once the party ends, stand up and get back to it. I simply follow my ABCs.
+The thing that I have learned is that if you are not failing, then you are not growing fast enough. I have wondered if this is too harsh of a view point, but I think failure comes with trying new things. The thing about failure is that it sucks emotionally. At the same time, it is hard to quantify the lessons learned during a failure. Every time I fail big, I tend to just want to crawl into bed and put the covers over my head. This is the pity party phase of post-failure. This party should be bound to less than an hour or a good night's rest. Once the party ends, stand up and get back to it. I simply follow my ABCs.
 
 # ABC = Always Be Creating
 
-Look, I'm a smuck that invented a stupid acronym. I believe that if you always create, then you raise your batting average such that a single failure is a blip. Diversifying your projects and having at multiple things going on at any time force you to get out of bed and make progress. It also increases the likelihood of a win building you up for the next thing. Sometimes, work on things that are small that you can win at. Small wins build into bigger wins. This is why I recommend hobbies or side projects.
+I believe that if you always create, then you raise your batting average such that a single failure is a blip. Diversifying your projects and having at multiple things going on at any time force you to get out of bed and make progress. It also increases the likelihood of a win building you up for the next thing. Sometimes, work on things that are small that you can win at. Small wins build into bigger wins. This is why I recommend hobbies or side projects.
 
 Every time I write an interesting bit of code that does not really matter, it is an intellectual win.
 

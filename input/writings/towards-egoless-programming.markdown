@@ -2,8 +2,9 @@
 #!path=writings/$
 #!use-template=writing
 #!order=2
+#!audit=JUL2015
 
-In my past, I have been an egomanical son-uv-a-bitch ninja 100x-rockstar god of code. I regret this. I regret this because ego is a useless facade that blinds, limits, and isolates us. And the worst part, ego wastes time.
+In my past, I have been an egomanical ninja 100x-rockstar god of code. I regret this. I regret this because ego is a useless facade that blinds, limits, and isolates us. And the worst part, ego wastes time.
 
 # Blindness
 

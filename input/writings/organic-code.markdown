@@ -2,6 +2,7 @@
 #!path=writings/$
 #!use-template=writing
 #!order=2
+#!audit=JUL2015
 
 Software peoples (Hackers, Coders, Programmers, Developers, Software Engineers, etc...) as a group (mostly) want to make good code. The core problem is that code quality does not exist on a spectrum from bad to good. It is very easy to armchair arbitrate code quality and say "oh, that code is bad because {X}" rather than focus on what the code does well. I know I'm guilty of this.
 

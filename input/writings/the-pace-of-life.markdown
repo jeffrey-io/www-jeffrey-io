@@ -51,7 +51,7 @@ Ask the important questions like
 * can I live with some technical tebt?
 * am I eating the right foods?
 * am I sleeping enough?
-* why do I keep fucking up my joint work?
+* why do I keep messing up my joint work?
 * is my breathing right?
 
 ## Managing the crash

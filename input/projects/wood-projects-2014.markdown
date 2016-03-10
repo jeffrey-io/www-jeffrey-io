@@ -29,7 +29,7 @@ Once the above steps are completed, the chaotic garage can start to get some ord
 
 # Projects Punted to 2015
 
-See  [Wood Projects 2015](/wood-projects-2015.html)
+See  [Wood Projects 2015](/projects/wood-projects-2015.html)
 
 * dining room table (probably eight feet by 4 feet? or so; the goal is be able to have a dinner with 3-4 couples)
 * seven chairs (all different, all distinct, with different colors shades)

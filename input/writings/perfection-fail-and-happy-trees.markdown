@@ -1,7 +1,7 @@
 #!title=Perfection, Fail, and Happy Trees
 #!path=writings/$
 #!use-template=writing
-#!order=2
+#!order=23
 #!audit=JUL2015
 
 Failing sucks. Whenever I fail, I sometimes will watch the following video. So, please watch it now.

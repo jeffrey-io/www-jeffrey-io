@@ -1,7 +1,7 @@
 #!title=The Educated Education Flaw
 #!path=writings/$
 #!use-template=writing
-#!order=2
+#!order=2323
 #!audit=JUL2015
 
 In the first version of my life, I was going to be a Professor of Math. I love math. If I had continued on that path, then I would probably have my PhD now. Fortunately, I did not pursue that path. Instead, I took a different path. The purpose of the writing is to express my concerns with academia, and I have a few bones to pick.

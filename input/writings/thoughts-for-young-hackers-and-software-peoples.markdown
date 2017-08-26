@@ -1,7 +1,7 @@
 #!title=Thoughts for Young Hackers and Software People
 #!path=writings/$
 #!use-template=writing
-#!order=1
+#!order=2
 #!audit=JUL2015
 
 Here is a collection of thoughts about being a successful software person (i.e. software engineer, hacker, person that touches code randomly, designer who codes, programmer, systems engineer, administrator, etc...)

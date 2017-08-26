@@ -1,7 +1,7 @@
 #!title=Building Creativity
 #!path=writings/$
 #!use-template=writing
-#!order=2
+#!order=22
 #!audit=JUL2015
 
 Knowledge work like software engineering generally boils down to being able to creatively execute on a schedule. The question is: how does one develop these skills? I believe it requires three core things: doing lots of work, exercising creativity, and focusing. The goal is to go from beginner to practitioner.

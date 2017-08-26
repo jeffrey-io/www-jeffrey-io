@@ -1,7 +1,7 @@
 #!title=Education and the New Creative World
 #!path=writings/$
 #!use-template=writing
-#!order=9
+#!order=91
 #!audit=JUL2015
 
 I am at the age where my peer group is having kids, and I have elected (along with my wife) to not have kids. The thing that I believe is that it takes a village to raise kids, and I like the idea of being that crazy uncle. In a former life, I was on the path of "the educator". I love learning, and I love watching the spark come alive in people when I find the right combination of ideas in the the proper sequence to unlock ideas in another person.
